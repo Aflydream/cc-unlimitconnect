@@ -1,0 +1,9 @@
+dist/
+__pycache__/
+*.pyc
+.env
+*.key
+*.pem
+policy.json
+install-state.json
+backups/

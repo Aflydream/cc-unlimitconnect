@@ -1,0 +1,19 @@
+{
+  "passed": true,
+  "standalone_installer": true,
+  "archive_files": 3,
+  "private_configuration_absent": true,
+  "installation_and_shortcut_passed": true,
+  "spaces_and_unicode_path_passed": true,
+  "reinstallation_passed": true,
+  "failed_probe_rollback_passed": true,
+  "unsupported_engine_rejected_without_installation": true,
+  "native_api_prefix_timeout_and_retry_passed": true,
+  "actual_retry_intervals_seconds": [
+    3.102,
+    3.004
+  ],
+  "external_model_requests": 0,
+  "personal_installation_unchanged": true,
+  "automatic_desktop_and_code_detection_passed": true
+}
